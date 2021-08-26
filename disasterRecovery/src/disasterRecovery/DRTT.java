@@ -33,5 +33,18 @@ public class DRTT {
 		drttDesc = desc;
 	}
 	
+	// getters
+	public int getID() {
+		return drttID;
+	}
+	
+	public String getName() {
+		return drttName;
+	}
+	
+	public String getDesc() {
+		return drttDesc;
+	}
+	
 
 }
